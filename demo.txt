@@ -1,0 +1,5 @@
+#! /bin/bash
+echo "Hello Everyone"
+date
+echo "Thanks and regards"
+echo "Selvamani"
